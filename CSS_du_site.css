@@ -2,7 +2,26 @@ h1{
     color: blueviolet;
 }
 
-#logo_entete{
-    width: 500px;
-    height: 500px;
+
+body{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 15px;
+}
+
+
+
+
+#corps{
+    padding-left: 100px;
+    padding-right: 80px;
+    
+    padding-top: 20px;
+    
+}
+
+
+body{
+    
+    
 }
